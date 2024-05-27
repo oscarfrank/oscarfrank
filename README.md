@@ -9,7 +9,7 @@ I'm proficient and have worked extensively with:
 - **C, C++, C#**: Low-level programming, hardware interaction, and high-performance applications.
 - **Java, Kotlin**: Android development, cross-platform solutions, and enterprise-level applications.
 - **Python**: Web development, data analysis, AI/ML, and scripting.
-- **PHP, Laravel**: Backend development, APIs, and server-side scripting.
+- **PHP, Laravel**: Backend development, APIs, Wordpress Plugins and server-side scripting.
 - **JavaScript, TypeScript**: Modern web applications with React, Vue, and Node.js.
 - **Flutter, Swift**: Cross-platform mobile development for Android and iOS.
 - **Arduino**: Embedded systems, robotics, and IoT projects.
@@ -18,11 +18,11 @@ I'm proficient and have worked extensively with:
 ## 🔧 Tools & Frameworks
 
 - **Frontend**: React, Vue, Angular, HTML, CSS, SASS
-- **Backend**: Node.js, Express, Django, Flask, Spring Boot
+- **Backend**: Node.js, Express, Django, Flask, Spring Boot, PHP
 - **Databases**: MySQL, PostgreSQL, MongoDB, SQLite
 - **DevOps**: Docker, Kubernetes, Jenkins, CI/CD pipelines
-- **Cloud Services**: AWS, Azure, Google Cloud Platform
-- **Version Control**: Git, GitHub, GitLab, Bitbucket
+- **Cloud Services**: AWS, Google Cloud Platform
+- **Version Control**: Git, GitHub, GitLab
 
 ## 🏆 Achievements & Recognition
 
